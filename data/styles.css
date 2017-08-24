@@ -2,12 +2,14 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:13px;
-  color:#333333;
+  font-size:14px;
+  color:#666666;
   text-align:center;
   line-height:normal;
 }
 .box_1 {
+}
+._图片 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -50,8 +52,24 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+._流程形状 {
+  color:#333333;
+}
 .fontawesome {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.image {
 }
