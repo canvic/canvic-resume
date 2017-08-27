@@ -9,6 +9,21 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FF6600;
+  text-align:center;
+  line-height:normal;
+}
 ._图片 {
 }
 ._一级标题 {
@@ -62,6 +77,10 @@
 ._文本链接 {
   color:#0000FF;
 }
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 ._流程形状 {
   color:#333333;
 }
@@ -71,5 +90,12 @@
   color:#000000;
   text-align:left;
 }
+.table_cell {
+}
 .image {
+}
+.line {
+}
+._图片1 {
+  color:#000000;
 }
