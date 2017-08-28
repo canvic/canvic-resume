@@ -295,16 +295,25 @@
   word-wrap:break-word;
 }
 #u715 {
+  border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-}
-#u715_state0 {
-  position:relative;
   left:0px;
   top:0px;
   width:375px;
   height:1830px;
+  overflow:hidden;
+}
+#u715_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:1830px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u715_state0_content {
