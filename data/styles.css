@@ -101,3 +101,11 @@
 }
 .icon {
 }
+._文本段落1 {
+  text-align:left;
+}
+._形状1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
